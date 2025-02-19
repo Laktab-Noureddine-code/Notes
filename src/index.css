@@ -1,0 +1,7 @@
+@import "tailwindcss";
+
+@layer components{
+    .title{
+        @apply text-3xl font-semibold my-5
+    }
+}
